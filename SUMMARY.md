@@ -2,7 +2,7 @@
 
 * [PRtOOlF](README.md)
 
-## probability distribution
+## Probability distribution
 
 * [Normal distribution](probability-distribution/normal-distribution.md)
 
